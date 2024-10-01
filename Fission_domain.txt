@@ -68,6 +68,8 @@ cloud.tryfastgpt.ai
 clun.top
 cname1.164182.xyz
 cname2.164182.xyz
+cptmarkets.com
+cptmarkets.tw
 dadawo123.cloudns.biz
 dd.hza1128.us.kg
 des.plus
@@ -85,6 +87,7 @@ fd-cname2.164182.xyz
 fd.menggu.eu.org
 fdip.cnpass.pp.ua
 flydog.us.kg
+gzcptgz.com
 hanson.run
 hg653.com
 hk.1001dns.asia
@@ -153,6 +156,9 @@ us.onecf.eu.org
 us.wlhacker.lol
 us1.redzan.com
 us2.redzan.com
+usercenter.cptmarkets.com.tw
+usercenter.cptmarkets.tw
+usercenter.gzcptgz.com
 usus.redzan.com
 uu.cnyohu.com
 uu.milka66.xyz
@@ -177,6 +183,9 @@ www.blz116.com
 www.caca005.com
 www.caca049.com
 www.cn46.com
+www.cptmarkets.com
+www.cptmarkets.com.tw
+www.cptmarkets.tw
 www.dadoudou.one
 www.ddosi.org
 www.dianyingxs.cc
